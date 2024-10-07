@@ -1,0 +1,4 @@
+node_modules
+.env
+beginner_guide_details.txt
+schemas.sql
